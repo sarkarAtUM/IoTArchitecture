@@ -1,0 +1,2 @@
+# IoTArchitecture
+An example directory
